@@ -50,7 +50,7 @@ scene("complete", () => {
     "topui",
   ]);
   add([
-    text("Like the repl and\nfollow ErikoXDev for\nmore games and apps!", {
+    text("Try beating this score!\nRefresh the page to\nrestart the game!", {
       size: 24,
       align: "center",
       letterSpacing: -2,
