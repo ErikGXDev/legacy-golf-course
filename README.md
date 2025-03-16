@@ -6,3 +6,11 @@
 
 ⛳ Wait, an Island? With a golf course on it?! Amazing!
 Golf Course is a mini golf game with a pixel art style.
+
+---
+
+**Play the game here: https://legacy-golf-course.vercel.app/**
+
+---
+
+Expect bugs or visual glitches as this game is no longer maintained.
